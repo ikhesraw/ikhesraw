@@ -1,11 +1,9 @@
 ## Hola !, from ``Ahmad khesraw`` salihi
 > let's get to know me
-- 👋 Hi, I’m @ikhesraw
-- 👀 I’m interested in development 
-- 🌱 I’m currently learning software development 
-- 💞️ I’m looking to collaborate on small projects 
+- 👋 Hi, I’m Ahmad khesraw salihi
+- 👀 I’m interested in development   
 - 📫 How to reach me you can contact me via phone or email 
-Phone 0093747997931.
+Phone +93770471611.
 Email iikhesraw@gmail.com 
 
 <!---
